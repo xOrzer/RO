@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/etudiants/ttoulott/RO_FIRESQUAD/firing-squad-synchronization-problem-master/test/../src/base/automata.h
+iostream
+-
+fstream
+-
+vector
+-
+time.h
+-
+base/solution.h
+-
+
+/etudiants/ttoulott/RO_FIRESQUAD/firing-squad-synchronization-problem-master/test/../src/base/solution.h
+string
+-
+iostream
+-
+stdlib.h
+-
+vector
+-
+time.h
+-
+
+/etudiants/ttoulott/RO_FIRESQUAD/firing-squad-synchronization-problem-master/test/t-exportSVG.cpp
+iostream
+-
+fstream
+-
+base/solution.h
+-
+base/automata.h
+-
+

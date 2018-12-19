@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:ev="http://www.w3.org/2001/xml-events"
+version="1.1"
+baseProfile="full"
+width="50" height="80">
+<g stroke-width="1px" stroke="black" fill="white">
+<rect width="10" height="10" x="10" y="10" fill="blue"/>
+<rect width="10" height="10" x="20" y="10" fill="white"/>
+<rect width="10" height="10" x="30" y="10" fill="white"/>
+<rect width="10" height="10" x="40" y="10" fill="white"/>
+<rect width="10" height="10" x="10" y="20" fill="blue"/>
+<rect width="10" height="10" x="20" y="20" fill="green"/>
+<rect width="10" height="10" x="30" y="20" fill="white"/>
+<rect width="10" height="10" x="40" y="20" fill="white"/>
+<rect width="10" height="10" x="10" y="30" fill="blue"/>
+<rect width="10" height="10" x="20" y="30" fill="green"/>
+<rect width="10" height="10" x="30" y="30" fill="green"/>
+<rect width="10" height="10" x="40" y="30" fill="white"/>
+<rect width="10" height="10" x="10" y="40" fill="blue"/>
+<rect width="10" height="10" x="20" y="40" fill="white"/>
+<rect width="10" height="10" x="30" y="40" fill="blue"/>
+<rect width="10" height="10" x="40" y="40" fill="yellow"/>
+<rect width="10" height="10" x="10" y="50" fill="blue"/>
+<rect width="10" height="10" x="20" y="50" fill="green"/>
+<rect width="10" height="10" x="30" y="50" fill="yellow"/>
+<rect width="10" height="10" x="40" y="50" fill="yellow"/>
+<rect width="10" height="10" x="10" y="60" fill="blue"/>
+<rect width="10" height="10" x="20" y="60" fill="blue"/>
+<rect width="10" height="10" x="30" y="60" fill="blue"/>
+<rect width="10" height="10" x="40" y="60" fill="blue"/>
+<rect width="10" height="10" x="10" y="70" fill="red"/>
+<rect width="10" height="10" x="20" y="70" fill="red"/>
+<rect width="10" height="10" x="30" y="70" fill="red"/>
+<rect width="10" height="10" x="40" y="70" fill="red"/>
+</g> </svg>
