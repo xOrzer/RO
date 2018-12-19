@@ -1,5 +1,0 @@
-/etudiants/ttoulott/RO_FIRESQUAD/firing-squad-synchronization-problem-master/build/CMakeFiles/rebuild_cache.dir
-/etudiants/ttoulott/RO_FIRESQUAD/firing-squad-synchronization-problem-master/build/CMakeFiles/t-solution.dir
-/etudiants/ttoulott/RO_FIRESQUAD/firing-squad-synchronization-problem-master/build/CMakeFiles/t-exportSVG.dir
-/etudiants/ttoulott/RO_FIRESQUAD/firing-squad-synchronization-problem-master/build/CMakeFiles/t-eval.dir
-/etudiants/ttoulott/RO_FIRESQUAD/firing-squad-synchronization-problem-master/build/CMakeFiles/edit_cache.dir

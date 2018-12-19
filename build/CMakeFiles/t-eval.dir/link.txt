@@ -1,1 +1,0 @@
-/usr/bin/c++   -O3   CMakeFiles/t-eval.dir/t-eval.cpp.o  -o t-eval -rdynamic 
