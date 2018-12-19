@@ -1,3 +1,5 @@
+Thomas Boitel, Benoît Ledet
+------------------------------
 See AUTHORS and COPYRIGHT for the list of contributors.
 
 ********************************************************************************************************
